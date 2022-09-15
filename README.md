@@ -8,5 +8,6 @@ Link for the dataset -->  https://www.kaggle.com/datasets/mlg-ulb/creditcardfrau
                      
 This dataset is highly unbalanced
 
-Problrm type --> Binary Classification
+Problem type --> Binary Classification
+
 Model Used   --> Logistic Regression
